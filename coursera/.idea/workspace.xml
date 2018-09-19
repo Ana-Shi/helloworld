@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d21633d-76d6-4796-ba97-0963a84b4485" name="Default Changelist" comment="20180919" />
+    <list default="true" id="5d21633d-76d6-4796-ba97-0963a84b4485" name="Default Changelist" comment="20180919">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/NUMPY.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/random_forest.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/random_forest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/决策树防止过拟合参数.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/探索数据.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_structure/.cache/v/cache/lastfailed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_structure/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_structure/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_structure/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_structure/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_structure/.idea/数据结构.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_structure/2.1homework_polyaddandmult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_structure/basic_structure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.idea/机器学习.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.ipynb_checkpoints/NUMPY-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.ipynb_checkpoints/random_forest-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.ipynb_checkpoints/决策树防止过拟合参数-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/.ipynb_checkpoints/探索数据-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/NUMPY.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/random_forest.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/random_forest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/决策树防止过拟合参数.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/探索数据.ipynb" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +137,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="189" y="346" width="1752" height="656" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
