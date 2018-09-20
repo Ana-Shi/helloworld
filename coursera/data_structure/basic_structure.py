@@ -227,6 +227,7 @@ class ArrayQueue(object):
         self.tail += 1
         return value
 
+#双端队列在两端增删元素
 class Deque(CircualDoubleLinkedList):
     def pop(self):
         if len(self) == 0:
